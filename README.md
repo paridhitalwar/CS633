@@ -2,7 +2,7 @@
 
 Name: Paridhi Talwar
 
-Course: CS663 Software Quality,Testing and Security Management
+Course: CS633 Software Quality,Testing and Security Management
 
 Date: 10/03/2024
 
