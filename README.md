@@ -6,6 +6,7 @@ Course: CS663 Software Quality,Testing and Security Management
 
 Date: 10/03/2024
 
+Project Title: Smart Fridge Tracker
 Project Role: Requirement and Configuration Lead
 
 My duties as a Requirements Lead and Configuration Lead cover a broad range of important tasks that guarantee the timely and effective advancement of our projects. As a Requirements Lead, it is my responsibility to carefully collect, examine, and record project requirements to guarantee that all parties involved are in agreement. Additionally, I convert these specifications into thorough user stories and tasks that I use Pivotal Tracker to prioritize and oversee. In order to make sure the stories are ready for implementation and in line with our project goals, this entails regular communication with the development team.
